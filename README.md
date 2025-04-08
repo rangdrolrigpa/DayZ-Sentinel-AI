@@ -5,7 +5,7 @@ Sentinel AI is a DayZ Expansion mod that adds immersive AI patrols and sniper po
 - **v0.021** – Added custom spawns at Grishino
 - **v0.02** – Added Custom sniper towers and spawns around the perimeter
 - **v0.01** – Added AI patrols at NWAF; reworked spawn logic for performance
-- **v0.0** – Initial setup with AI patrol zones at NWAF
+- **v0.0** – Initial mod setup
 
 ## Features (v0.021)
 
